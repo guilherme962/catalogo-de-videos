@@ -1,4 +1,12 @@
 body{
     color:white;
-    background:black
+    background:RED(139,5,5);
+}
+
+CHAMADA{
+background:red ;
+padding-bottom: 80PX ;
+padding-top: 80PX ;
+display: flex;
+justify-content: center;
 }
